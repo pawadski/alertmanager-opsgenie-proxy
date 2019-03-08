@@ -11,7 +11,7 @@ You will need:
 
 ## install instructions
 
-1. `git clone github.com/pawadski/alertmanager-opsgenie-proxy`
+1. `git clone https://github.com/pawadski/alertmanager-opsgenie-proxy.git`
 2. `cd alertmanager-opsgenie-proxy`
 3. `python3.5 proxy.py`
 
@@ -54,3 +54,7 @@ In the above example, `opsgenie_description` and `opsgenie_alias` get passed to 
 # bugs
 
 I don't know. Literally just made it.
+
+# feature requests
+
+Let me know if you need a systemd service file or a docker image.
