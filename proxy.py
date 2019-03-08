@@ -9,7 +9,8 @@ proxy = Sanic()
 
 def makeOpsgenieStuff(data):
     output = data
-    for line in data['description'].splitlines():
+    original_description = data['description']
+    for line in original_description.splitlines():
         if line.startswith(' - opsgenie_'):
             _, info = line.split('_', 1)
             info, injectThis = info.split(' = ', 1)
