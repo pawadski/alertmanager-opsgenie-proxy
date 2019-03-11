@@ -55,6 +55,10 @@ In the above example, `opsgenie_description` and `opsgenie_alias` get passed to 
 
 I don't know. Literally just made it.
 
+# docker
+
+https://cloud.docker.com/repository/docker/pawadski/alertmanager-opsgenie-proxy
+
 # feature requests
 
 Let me know if you need a systemd service file or a docker image.
