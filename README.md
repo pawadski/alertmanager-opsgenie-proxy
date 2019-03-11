@@ -61,4 +61,4 @@ https://cloud.docker.com/repository/docker/pawadski/alertmanager-opsgenie-proxy
 
 # feature requests
 
-Let me know if you need a systemd service file or a docker image.
+Let me know if you need a systemd service file or something
