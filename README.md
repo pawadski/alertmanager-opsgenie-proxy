@@ -2,7 +2,7 @@
 
 Provides the ability to customize alert messages to be more OpsGenie friendly, such as enabling alias customization
 
-Made to work around https://github.com/prometheus/alertmanager/issues/1598
+Made to partially work around https://github.com/prometheus/alertmanager/issues/1598
 
 # install & dependencies
 
